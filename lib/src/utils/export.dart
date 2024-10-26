@@ -1,0 +1,11 @@
+export 'package:welcome_to_flutter/src/controllers/orientacion.dart';
+export 'package:welcome_to_flutter/src/providers/login_provider.dart';
+export 'package:welcome_to_flutter/src/providers/movies_provider.dart';
+export 'package:welcome_to_flutter/src/providers/register_provider.dart';
+export 'package:welcome_to_flutter/src/providers/theme_controller.dart';
+export 'package:welcome_to_flutter/src/routes/app_routes.dart';
+export 'package:welcome_to_flutter/src/routes/routes.dart';
+export 'package:welcome_to_flutter/src/services/inject_dependencies.dart';
+export 'package:welcome_to_flutter/src/services/local_storage.dart';
+export 'package:welcome_to_flutter/src/services/push_notification_service.dart';
+export 'package:welcome_to_flutter/src/utils/utils_snackbar.dart';
